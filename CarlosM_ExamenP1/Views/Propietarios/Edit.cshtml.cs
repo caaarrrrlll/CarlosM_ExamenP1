@@ -9,7 +9,7 @@ using Microsoft.EntityFrameworkCore;
 using CarlosM_ExamenP1.Data;
 using CarlosM_ExamenP1.Models;
 
-namespace CarlosM_ExamenP1.Views.Propietario
+namespace CarlosM_ExamenP1.Views.Propietarios
 {
     public class EditModel : PageModel
     {
