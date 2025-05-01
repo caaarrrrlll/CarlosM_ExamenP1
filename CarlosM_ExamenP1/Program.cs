@@ -1,3 +1,4 @@
+using Microsoft.EntityFrameworkCore;
 using CarlosM_ExamenP1.Data;
 
 var builder = WebApplication.CreateBuilder(args);
