@@ -4,6 +4,7 @@ namespace CarlosM_ExamenP1.Models
 {
     public class Propietario
     {
+        [Key]
         public int Id { get; set; }
 
         [Required(ErrorMessage ="El Nombre es obligatorio")]

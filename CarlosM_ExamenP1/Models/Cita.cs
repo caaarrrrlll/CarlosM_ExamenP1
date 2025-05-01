@@ -5,6 +5,7 @@ namespace CarlosM_ExamenP1.Models
 {
     public class Cita
     {
+        [Key]
         public int Id { get; set; }
 
         [Required(ErrorMessage = "Fecha de la cita es obligatoria")]

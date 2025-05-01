@@ -4,6 +4,7 @@ namespace CarlosM_ExamenP1.Models
 {
     public class Mascota
     {
+        [Key]
         public int Id { get; set; }
 
         [Required(ErrorMessage = "El nombre de la mascota es obligatorio.")]
