@@ -25,6 +25,5 @@ body {
     width: 700px;
     height: 700px;
     object-fit: cover;
-    display: block;
-    margin: 0 auto;
 }
+   
